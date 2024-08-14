@@ -1,0 +1,267 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1272" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-20" width="1270" height="1010" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Muralidhar Nutakki" position="CEO" location="Bengaluru, India" email="muralidhar.nutakki@omniware.in" placeholders="1" link="https://www.omniware.in" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="459" y="50" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Vinay Chandrakant" position="Director, Sales &amp; Strategy" location="Bengalure,India" email="vinay.chandrakant" placeholders="1" link="https://www.omniware.in" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="160" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Sanjay Kumar P" position="Director, Security &amp; Compliance" location="Bengaluru, India" email="sanjaykumar.palli@omniware.in" placeholders="1" link="https://www.omniware.in" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="780" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Karmendra Suthar" position="Director, R&amp;D" location="Bengalure, India" email="karmendra.suthar@omniware.in" placeholders="1" link="https://www.omniware.in" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="410" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Shivakrishna T" position="Project Director - Developoment" location="Bengalure, India" email="shivakrishna.t@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="530" y="300" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-18" target="DwGi6t_2d55oD2UD-yaA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549" y="120" as="sourcePoint" />
+            <mxPoint x="779" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-3" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-4" source="dNxyNK7c78bLwvsdeMH5-14" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Subramanyam P" position="Support Manager - Operations" location="Bengalure,India" email="subramanyam.p@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-4">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="40" y="500" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-8" source="dNxyNK7c78bLwvsdeMH5-14" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="250" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Siddharth Patagundi" position="Asst. Vice President - Business Development" location="Bengalure,India" email="siddharth.p@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-8">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="40" y="300" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-9" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-10" source="dNxyNK7c78bLwvsdeMH5-14" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Rohith S Nathan" position="Executive - Business Development" location="Bengalure,India" email="rohith.nathan@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-10">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="40" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-11" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-12" source="DwGi6t_2d55oD2UD-yaA-4" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="650" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Akshay R" position="Manager - Operations" location="Bengalure,India" email="akshay.r@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="180" y="620" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-14" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Sunil Balakrishna" position="Support Manager - Operations" location="Bengalure,India" email="sunil.balakrishna@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="180" y="810" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-16" source="DwGi6t_2d55oD2UD-yaA-4" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Akshaya Kumar" position="Support Manager - Operations" location="Bengalure,India" email="akshaya.kumar@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="180" y="720" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-18" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-19" source="dNxyNK7c78bLwvsdeMH5-18" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Mallikarjun D" position="Software Architect" location="Bengalure, India" email="mallikarjun.d@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-19">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="290" y="300" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-26" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-27" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="540" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Raghavendra Bagli" position="Sr. Software Engineer" location="Bengalure, India" email="raghavendra.b@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-27">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="290" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-28" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-29" source="dNxyNK7c78bLwvsdeMH5-18" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="530" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Vinesh Nair" position="Sr. Software Engineer" location="Bengalure, India" email="vinesh.nair@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-29">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="290" y="500" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-30" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-31" source="DwGi6t_2d55oD2UD-yaA-1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="240" as="sourcePoint" />
+            <mxPoint x="789" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Suresh Kumar" position="Software Architect" location="Bengalure, India" email="suresh.kumar@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-31">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="610" y="400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-32" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-33" source="DwGi6t_2d55oD2UD-yaA-1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="360" as="sourcePoint" />
+            <mxPoint x="799" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Shivendra Suman" position="Software Architect" location="Bengalure, India" email="shivendra.suman@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-33">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="610" y="490" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-34" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-35" source="DwGi6t_2d55oD2UD-yaA-1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="360" as="sourcePoint" />
+            <mxPoint x="809" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Newton Kumar" position="Software Architect" location="Bengalure, India" email="newton.kumar@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-35">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="610" y="580" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-44" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-45" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="261" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="870" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="NagaSai Raja" position="Software Engineer" location="Bengaluru, India" email="nagasai.raja@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-45">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="870" y="410" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-46" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-47" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="860" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Pradeep TV" position="Software Engineer" location="Bengaluru, India" email="pradeep.tv@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-47">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="870" y="300" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-48" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="DwGi6t_2d55oD2UD-yaA-49" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="870" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Prajwal R" position="Jr. Executive, Finance" location="Bengaluru, India" email="prajwal.ram@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-49">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="870" y="510" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DwGi6t_2d55oD2UD-yaA-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dNxyNK7c78bLwvsdeMH5-12" target="DwGi6t_2d55oD2UD-yaA-51" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="549" y="150" />
+              <mxPoint x="1090" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Kanakadhar Chellu" position="Finance" location="Bengaluru, India" email="kanakadhar.chellu@omniware.in" placeholders="1" link="https://www.omniware.in" id="DwGi6t_2d55oD2UD-yaA-51">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1000" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
